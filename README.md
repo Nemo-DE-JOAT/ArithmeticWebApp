@@ -11,9 +11,13 @@ on the user’s choice. The user must be allowed to answer. The answer must be c
 the correct answer, and an outcome must be displayed. 
 
 **• Display the following summary at the end of a session:**
-o The total number of addition operations requested. 
+
+o The total number of addition operations requested.
+
 o The total number of correct answers. 
+
 o The total number of wrong answers. 
+
 • The answers provided by the user must not be less than 2. Also, the program must not allow 
 non-numeric answers. References to nonexistent resources must be handled.
 
