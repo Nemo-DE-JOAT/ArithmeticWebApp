@@ -23,7 +23,9 @@ non-numeric answers. References to nonexistent resources must be handled.
 
 
 **Solution approach** 
+
 The problem will be solved as follows: 
+
 1. Launch NetBeans. 
 2. Create a web application project. 
 3. Create HTML and JSP files. 
